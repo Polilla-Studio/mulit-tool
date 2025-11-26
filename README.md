@@ -32,7 +32,7 @@ Está pensado para equipos que mantienen varios proyectos y desean distribuir ca
 ## 📥 Uso
 
 ### 1. Descarga o clona este proyecto
-- Clona este repositorio o solo copia el contenido de mulit.sh en la raiz de tu proyecto OctoberCMS que recibe las actualizaciones del proyecto maestro
+- Descarga el script en la raiz de tu proyecto October Destino curl -s https://raw.githubusercontent.com/Polilla-Studio/mulit-tool/main/mulit.sh -o mulit.sh
 - Dale permisos de ejecucion (chmod +x mulit.sh)
 
 ### 2. Ejecutar sincronización real
