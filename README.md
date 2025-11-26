@@ -1,6 +1,6 @@
-# Mulit – Sincronizador de plugins para OctoberCMS
+# Mülit – Sincronizador de plugins para OctoberCMS
 
-**Mulit** es un script Bash que permite sincronizar plugins desde un “repositorio maestro” hacia múltiples proyectos OctoberCMS de forma segura y controlada.  
+**Mülit** es un script Bash que permite sincronizar plugins desde un “repositorio maestro” hacia múltiples proyectos OctoberCMS de forma segura y controlada.  
 Está pensado para equipos que mantienen varios proyectos y desean distribuir cambios sin hacer `git pull` dentro de cada proyecto.
 
 ---
